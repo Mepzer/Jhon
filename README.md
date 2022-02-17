@@ -1,15 +1,16 @@
-### Mepzer
+### <h2 align="center">Jhon W. (Mepzer)<h2>
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/Mepzer#0632)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wesleyyads@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-wesley-26a86b211/)
+  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/Mepzer#0632)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wesleyyads@gmail.com)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-wesley-26a86b211/)
+
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mepzer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mepzer&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## Possuo experiência nas tecnologias:
+## <h2 align="center">Possuo experiência nas tecnologias:<h2>
 
 <div style="display: inline_block">
     <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
